@@ -1,5 +1,5 @@
 {
-  "name": "@samurai1979/random-color-name",
+  "name": "random-color-name",
   "version": "1.0.0",
   "description": "Generates random color name",
   "main": "index.js",
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/samurai1979/random-color-name.git"
   },
   "keywords": [
+    "generate",
     "random",
     "color",
-    "name",
-    "generate"
+    "name"
   ],
   "author": "Samuel Lawal",
   "license": "ISC",
