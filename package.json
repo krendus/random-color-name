@@ -1,6 +1,6 @@
 {
   "name": "random-color-name",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates random color name",
   "main": "index.js",
   "scripts": {
